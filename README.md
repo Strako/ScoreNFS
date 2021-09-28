@@ -1,5 +1,5 @@
 # scoreNFS
- A simple scoreboard for obs (chroma background)
+ A simple "racing scoreboard" for obs (chroma background)
 
 BUILD1.03
 U NEED JAVA TO RUN IT !
